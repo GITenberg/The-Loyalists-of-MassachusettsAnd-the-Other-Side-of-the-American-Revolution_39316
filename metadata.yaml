@@ -1,0 +1,26 @@
+_repo: The-Loyalists-of-MassachusettsAnd-the-Other-Side-of-the-American-Revolution_39316
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stark, James Henry
+    alias: Stark, James H.
+    gutenberg_agent_id: '39958'
+    url: http://www.gutenberg.org/2009/agents/39958
+description: ''
+gutenberg_issued: '2012-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'American loyalists -- Massachusetts'
+- !lcsh 'Massachusetts -- Politics and government -- 1775-1783'
+title: The Loyalists of Massachusetts and the Other Side of the American Revolution
+url: http://www.gutenberg.org/ebooks/39316
